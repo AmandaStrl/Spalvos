@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314220871700",
+    "firebase_url": "https://spalvos-64573.firebaseio.com",
+    "project_id": "spalvos-64573",
+    "storage_bucket": "spalvos-64573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314220871700:android:fa2360ccb74a2f73826701",
+        "android_client_info": {
+          "package_name": "com.example.spalvos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314220871700-l9juevvm1etkqfqss3jmcets5l5qa11c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spalvos",
+            "certificate_hash": "bc79f2e9b083912e5d66cede2b3324f1cb179278"
+          }
+        },
+        {
+          "client_id": "314220871700-oanhs0bsf14h77sochm1ffp9qbbt6r1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVu5gA7kMjSiwfX89YpnTP_9gcsm-kG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314220871700-oanhs0bsf14h77sochm1ffp9qbbt6r1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

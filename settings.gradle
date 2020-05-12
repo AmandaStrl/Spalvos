@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='Spalvos'
+include ':openCVLibrary2411'
+include ':openCVLibrary330'
